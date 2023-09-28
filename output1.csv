@@ -1,0 +1,5 @@
+Question,Predicted Answer,True Answer,BLEU Score,ROUGE-2 Score
+What is etl ,"A data integration process that combines data from multiple data sources into a single, the consistent data store that is loaded into a data warehouse or other target system","Extract , transform , load",0.0003075852127829,0.0
+What does etl stand for,"Extract, transform, and load","Extract , transform , load",0.5789300674674098,0.4
+What is sla,Service - level agreement ( sla ) is a contract between a service provider and its customers that documents what services the provider will furnish and defines the service standards the provider is obligated to meet. example of sla is sla on the reception of the files,S a contract between a service provider and its customers that documents what services the provider will furnish and defines the service standards the provider is obligated to meet.,0.7640603167979365,0.7605633802816901
+How the categorized disputes are uploaded into the database ?,At specified intervals,The categorized disputes are uploaded into the database at specified intervals,0.2727272727272727,0.33333333333333337
