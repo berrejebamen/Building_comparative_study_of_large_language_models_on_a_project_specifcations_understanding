@@ -11,7 +11,7 @@ from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "private_api_key"
 
 # Enable to save to disk & reuse the model (for repeated queries on the same data)
 PERSIST = False
