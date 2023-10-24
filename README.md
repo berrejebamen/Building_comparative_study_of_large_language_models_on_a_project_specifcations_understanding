@@ -9,7 +9,7 @@ In the realm of Natural Language Processing (NLP), Transformers have shown signi
 ## Objectives
 
 - Evaluate the efficacy of various Transformers-based language models.
-- Extract meaningful insights from project specifications.
+- Extract questions and answer therm from ADAD (M&C's project ) specifications.
 - Provide a comprehensive overview of seminal research papers for each model.
 
 ## Models Analyzed
