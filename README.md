@@ -9,15 +9,15 @@ In the realm of Natural Language Processing (NLP), Transformers have shown signi
 ## Objectives
 
 - Evaluate the efficacy of various Transformers-based language models.
-- Extract questions and answer therm from ADAD (M&C's project ) specifications.
-- Provide a comprehensive overview of seminal research papers for each model.
+- Extract questions and answer them from ADAD (M&C's project ) specifications.
+- Provide a comprehensive overview of  research papers for each model.
 
 ## Models Analyzed
 
 The following state-of-the-art Transformers-based models have been analyzed:
 
-- BERT
-- ALBERT
+- BERT (Bidirectional Encoder Representations from Transformers)
+- ALBERT (A Lite Bert) 
 - T5 (Text-to-Text Transfer Transformer)
 - GPT-3 (with a special use case of deploying it on a Streamlit app using the OpenAI key)
 
