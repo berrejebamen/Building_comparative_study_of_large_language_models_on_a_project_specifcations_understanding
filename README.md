@@ -29,7 +29,7 @@ The models were evaluated using the following metrics:
 - ROUGE-2 Score
 
 ## Repository Structure
--**To check similarity between user question and question in json file** : check_similarity.ipynb
+- **To check similarity between user question and question in json file**: check_similarity.ipynb
 - **BERT**: `trying_BERT.ipynb`
 - **ALBERT**: `trying_ALBERT.ipynb`
 - **T5**: `trying_T5.ipynb`
